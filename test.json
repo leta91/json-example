@@ -1,0 +1,16 @@
+{
+    "name": "Rhaenyra",
+    "age": 31,
+    "isTargaryen": true,
+    "children": [
+      "Jacaerys",
+      "Lucerys",
+      "Joffrey",
+      "Aegon",
+      "Viserys",
+      "Visenya"
+    ],
+    "birthright": {
+      "title": "Queen of the Andals, the Rhoynar, and the First Men"
+    }
+  }
